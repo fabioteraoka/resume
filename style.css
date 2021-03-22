@@ -145,10 +145,12 @@ a:hover div{
   opacity:1;
   transform:translatez(0px);
 }
+
 .about{
     width: 100%;
     height: 100vh;
-    background-color:#ACA696
+    background-color:#ACA696;
+    display: inline-block;
 }
 .about h1{
     font-size: 4rem;
