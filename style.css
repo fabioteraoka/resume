@@ -58,20 +58,11 @@ body {
         transform: translateY(10px);
     }
 }
-
-
-
-#about{
-    display: inline;
-    padding: 1px;
-    background:#000;
-}
-.row{
-    width: 400px;
-    margin: 0;
-}
-.col-md-6{
-    background-color: antiquewhite;
+.row img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1rem;
 }
 
 
