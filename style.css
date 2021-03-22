@@ -58,3 +58,63 @@ body {
         transform: translateY(10px);
     }
 }
+
+
+
+#about{
+    display: inline;
+    padding: 1px;
+    background:#000;
+}
+.row{
+    width: 400px;
+    margin: 0;
+}
+.col-md-6{
+    background-color: antiquewhite;
+}
+
+
+.nav-bar{
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.navbar{
+    background-color: #000;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.nav-bar .fa-bars{
+    font-size: 35px;
+    color: #fff;
+}
+button .navbar-toggler {
+    outline: none !important;
+}
+
+.navbar-nav{
+    float: right;
+    text-align: right;
+
+}
+.nav-link  {
+    color: #fff !important;
+}
+.skill-bar p{
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.progress{
+    border-radius: 16px !important;
+    margin-bottom: 10px;
+    color: #fff;
+    text-align: center;
+}
+.progress-bars{
+    border-radius: 16px;
+    background: #000 !important;
+}
